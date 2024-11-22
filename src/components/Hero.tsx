@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/2 flex justify-center">
             <div className="relative">
               <img
-                src="/public/Profile.jpg"
+                src="public/Profile.jpg"
                 alt="Profile Picture"
                 class="profile-image"
               />
