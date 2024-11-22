@@ -13,3 +13,9 @@
     @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
   }
 }
+.profile-image {
+  width: 400px; /* Adjust the size */
+  height: 500px; /* Make height equal to width for a perfect circle */
+  border-radius: 10%; /* Makes the image round */
+  border: 2px solid #ccc; /* Optional: Adds a border */
+}
